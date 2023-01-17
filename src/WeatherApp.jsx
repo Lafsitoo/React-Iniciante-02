@@ -1,9 +1,7 @@
-import { useState } from "react";
-
 import "./WeatherApp.css";
 
 function WeatherApp() {
-  return <div className="App">Hola</div>;
+  return <div className="App">Weather</div>;
 }
 
 export default App;
