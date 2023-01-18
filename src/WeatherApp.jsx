@@ -8,7 +8,7 @@ function WeatherApp() {
 
 
   // RENDER
-  return <div className="App">Weather</div>;
+  return <div className="App">Hola</div>;
 }
 
 export default App;
