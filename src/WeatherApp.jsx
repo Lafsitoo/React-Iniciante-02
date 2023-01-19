@@ -3,7 +3,7 @@ import "./WeatherApp.css";
 
 function WeatherApp() {
   // LOGICA
-  const [weather, setWeatger] = useState(null)
+  const [weather, setWeather] = useState(null)
   
 
 
